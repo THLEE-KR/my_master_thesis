@@ -7,6 +7,6 @@ and reliable estimation of vehicle states is critical. Conventional road bank-an
  In this research, data acquisition process and verification of estimation algorithm are conducted by simulation using a commercial vehicle model. The vehicle driving simulation and vehicle sensor data acquisition are accomplished by IPG Carmaker, which is one of the most well-known vehicle simulation tools. Modeling and training of the DNN model are results are accomplished by Keras in Python. 
  Results show that the performance of the proposed method using the DNN is more accurate in both vehicle roll angle and road bank angle estimations than conventional methods. Especially, the proposed method reveals a notable performance enhancement in the road bank angle estimation.
  
- ![images1](https://github.com/THLEE-KR/my_master_thesis/blob/master/thesis1.jpg)
+ ![images1](https://github.com/THLEE-KR/my_master_thesis/blob/master/thesis1.JPG)
  
- ![images2](https://github.com/THLEE-KR/my_master_thesis/blob/master/thesis2.jpg)
+ ![images2](https://github.com/THLEE-KR/my_master_thesis/blob/master/thesis2.JPG)
