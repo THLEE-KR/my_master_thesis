@@ -1,5 +1,4 @@
-# my_master_thesis
-data about taehui's master degree thetis
+##### Estimation of Vehicle Roll Angle and Road Bank Angle Using Deep Neural Network
 
  In the vehicle driving situation, a road bank angle affects not only the vehicle roll dynamics but also the vehicle stability. For more stable and safe driving, accurate
 and reliable estimation of vehicle states is critical. Conventional road bank-angle estimation methods typically employ a dynamic filter compensation which is quite accurate in estimating the steady-state driving conditions. However, in unstable driving conditions such as high-speed driving, it is not reliable much.
